@@ -16,8 +16,9 @@ Below is a list of projects contained within this repository:
   - **Description**: Segmentation of customers using Kmeans clustering algorithm.
  
 - **Project 4**: [Sentiment Analysis]
-  - **Description**: 4-1) Sentiment analysis (NLP) using Back of Words (Accuracy: Naive Bayes: 63.0%, XGBoost: 79.5%)
-                     4-2) Sentiment analysis (NLP) using Tokenizer, Embedding, and Bi-diretional LSTM with Tensorflow (Accuracy: 92.5%)
+  - **Description**:
+    - 4-1) Sentiment analysis (NLP) using Back of Words (Accuracy: Naive Bayes: 63.0%, XGBoost: 79.5%)
+    - 4-2) Sentiment analysis (NLP) using Tokenizer, Embedding, and Bi-diretional LSTM with Tensorflow (Accuracy: 92.5%)
 
 - **Project 5**: [Image Classification]
   - **Description**: Image classification using Convolutional Neural Network (CNN) with Tensorflow (Accuracy: 97.5%)
