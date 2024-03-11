@@ -27,9 +27,7 @@ Below is a list of projects contained within this repository:
 
 
 These projects are designed to enhance my machine learning skills, as well as to explore different aspects of algorithms. 
-
 I am committed to updating this repository with new projects as my exploration advances. Stay tuned for more updates!
-
 
 Your feedback is highly appreciated. If you have any comments, questions, or suggestions, please feel free to open an issue or submit a pull request.
 
